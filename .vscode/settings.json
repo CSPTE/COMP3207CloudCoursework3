@@ -1,0 +1,6 @@
+{
+    "azureFunctions.deploySubpath": "endpointFuncs\\izifood",
+    "azureFunctions.projectLanguage": "JavaScript",
+    "azureFunctions.projectRuntime": "~4",
+    "debug.internalConsoleOptions": "neverOpen"
+}

@@ -1,0 +1,15 @@
+.centered-box {
+	display: flex;
+	direction: column;
+	align-items: center;
+	justify-content: center;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background-color: #edf2f4;
+	width: 30vw;
+	height: 60vh;
+	border-radius: 5%;
+	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+}

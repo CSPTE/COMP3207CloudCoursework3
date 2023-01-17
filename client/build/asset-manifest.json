@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c0633cc6.css",
+    "main.js": "/static/js/main.d59fc983.js",
+    "static/media/IzzyFoodNoBg.png": "/static/media/IzzyFoodNoBg.1784d28f3c75ac9f9db0.png",
+    "index.html": "/index.html",
+    "main.c0633cc6.css.map": "/static/css/main.c0633cc6.css.map",
+    "main.d59fc983.js.map": "/static/js/main.d59fc983.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0633cc6.css",
+    "static/js/main.d59fc983.js"
+  ]
+}
